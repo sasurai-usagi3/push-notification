@@ -1,6 +1,9 @@
 # Push Notification
 Use this gem, you can send push notification to browser simply.
 
+## Environment
+Browzer where I checked if this gem worked.
+- Firefox57.0
 
 ## Installation
 
