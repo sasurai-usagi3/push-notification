@@ -1,5 +1,5 @@
-require "push_notification/version"
+require 'push_notification/version'
+require 'push_notification/gcm_sender'
 
 module PushNotification
-  # Your code goes here...
 end
