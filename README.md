@@ -23,7 +23,13 @@ Or install it yourself as:
 
 ## Usage
 
-TODO: Write usage instructions here
+```
+push_notification = PushNotification::GcmSender.new(endpoint, local_public_key, auth, server_key_pair)
+push_notification.send(msg)
+```
+
+## Sample
+- https://github.com/sasurai-usagi3/push-notification-sample
 
 ## Development
 
